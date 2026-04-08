@@ -1,7 +1,8 @@
 streamlit
 pandas
 openpyxl
-easyocr
-rapidfuzz
 numpy
 Pillow
+easyocr
+rapidfuzz
+opencv-python-headless
